@@ -13,6 +13,9 @@ public class AppArrays {
         System.out.println("valor da posição 3: " + vetor[3]);
 
 
+        
+
+
 
 
 
